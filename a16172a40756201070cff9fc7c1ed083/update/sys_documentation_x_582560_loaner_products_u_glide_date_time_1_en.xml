@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_glide_date_time_1" label="New Date/Time" language="en" table="x_582560_loaner_products">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_1</element>
+            <help/>
+            <hint/>
+            <label>New Date/Time</label>
+            <language>en</language>
+            <name>x_582560_loaner_products</name>
+            <plural>New Date/Times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-10 11:45:40</sys_created_on>
+            <sys_id>67c834f407da201070cff9fc7c1ed0b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Date/Time</sys_name>
+            <sys_package display_value="Loaner" source="x_582560_loaner">a16172a40756201070cff9fc7c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner">a16172a40756201070cff9fc7c1ed083</sys_scope>
+            <sys_update_name>sys_documentation_x_582560_loaner_products_u_glide_date_time_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-10 11:45:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_model" label="Products" max_length="40" name="x_582560_loaner_products" sizeclass="5" type="collection">
+        <element attributes="encode_utf8=false" label="Inspector" max_length="32" name="inspector" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Due Date Send" mandatory="true" max_length="40" name="u_due_date" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" mandatory="true" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <index name="index">
+            <element name="inspector"/>
+        </index>
+    </element>
+</database>

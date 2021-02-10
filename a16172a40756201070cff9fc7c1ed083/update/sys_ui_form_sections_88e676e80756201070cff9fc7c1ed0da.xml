@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="88e676e80756201070cff9fc7c1ed0da" sys_domain="global" table="x_582560_loaner_products" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-10 02:18:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18e6b6e80756201070cff9fc7c1ed061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_582560_loaner_products" name="x_582560_loaner_products" sys_domain="global" view="Default view">88e676e80756201070cff9fc7c1ed0da</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_582560_loaner_products" sys_domain="global" view="Default view">08e676e80756201070cff9fc7c1ed0e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-10 02:18:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-10 02:18:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ce6b6e80756201070cff9fc7c1ed06a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_582560_loaner_products" name="x_582560_loaner_products" sys_domain="global" view="Default view">88e676e80756201070cff9fc7c1ed0da</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_582560_loaner_products" sys_domain="global" view="Default view">1ce6b6e80756201070cff9fc7c1ed064</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-10 02:18:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_582560_loaner_products</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-10 02:18:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88e676e80756201070cff9fc7c1ed0da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_582560_loaner_products</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner" source="x_582560_loaner">a16172a40756201070cff9fc7c1ed083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner">a16172a40756201070cff9fc7c1ed083</sys_scope>
+            <sys_update_name>sys_ui_form_sections_88e676e80756201070cff9fc7c1ed0da</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-10 02:18:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
